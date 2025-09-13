@@ -12,25 +12,26 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: 'leslie al-hassan',
+  title: 'justin bather',
   description:
-    'Software engineer based in Toronto, Canada. Full stack developer at North One.',
+    'Senior Software Engineer at Napier AI, based in Belast, UK',
   keywords: [
     'software engineer',
     'software developer',
     'developer',
-    'Toronto',
+    'Belfast',
     'full stack',
-    'React',
-    'TypeScript',
+    'go',
+    'kafka',
+    'java',
     'AWS',
     'aws',
   ],
-  authors: [{ name: 'Leslie Al-Hassan' }],
-  creator: 'Leslie Al-Hassan',
+  authors: [{ name: 'Justin Bather' }],
+  creator: 'Justin Bather',
   openGraph: {
-    title: 'Leslie Al-Hassan - Software Engineer',
-    description: 'Software engineer based in Toronto, Canada',
+    title: 'Justin Bather - Senior Software Engineer',
+    description: 'Senior Software engineer based in Belfast, United Kingdom',
     type: 'website',
     locale: 'en_US',
   },
