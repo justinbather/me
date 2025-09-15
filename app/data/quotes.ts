@@ -5,45 +5,26 @@ export interface Quote {
 
 export const quotes: Quote[] = [
   {
-    author: 'Pablo Picasso',
-    quote: 'Computers are useless. They can only give you answers.',
+    author: 'Kanye West',
+    quote: "For me to say I wasn't a genius I'd just be lying to you and myself",
   },
   {
-    author: 'Donald Knuth',
-    quote: 'An algorithm must be seen to be believed.',
+    author: 'Kanye West',
+    quote: "I hate when I'm on a flight and I wake up with a water bottle next to me like oh great now I gotta be responsible for this water bottle",
   },
   {
-    author: 'Alan Turing',
+    author: 'Kanye West',
     quote:
-      'We can only see a short distance ahead, but we can see plenty there that needs to be done.',
+      "I wish I could run across a beach into my own arms",
   },
   {
-    author: 'Alan Kay',
-    quote: 'Simple things should be simple; complex things should be possible.',
+    author: 'Kanye West',
+    quote: 'I need a room full of mirrors so I can be surrounded by winners',
   },
   {
-    author: 'Grace Hopper',
+    author: 'Kanye West',
     quote:
-      "The most damaging phrase in the language is 'We've always done it this way.'",
-  },
-  { author: 'Linus Torvalds', quote: 'Talk is cheap. Show me the code.' },
-  {
-    author: 'Martin Fowler',
-    quote:
-      'Any fool can write code that a computer can understand. Good programmers write code that humans can understand.',
-  },
-  {
-    author: 'Robert C. Martin',
-    quote: 'The only way to go fast is to go well.',
-  },
-  {
-    author: 'Dennis Ritchie',
-    quote:
-      'The only way to learn a new programming language is by writing programs in it.',
-  },
-  {
-    author: 'James Gosling',
-    quote: 'Java is to JavaScript what car is to carpet.',
+      "Sometimes I get emotional over fonts",
   },
 ]
 

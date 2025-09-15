@@ -15,15 +15,14 @@ export default function HomePage() {
       <div className='m-auto flex flex-col w-full max-w-md px-8 sm:px-12 md:px-0 md:w-1/2 lg:w-1/3'>
         {/* Header */}
         <h1 className='font-medium mb-2'>justin bather</h1>
-        <p className={`${secondaryTextClass} mb-8`}>senior software engineer</p>
+        <p className={`${secondaryTextClass} mb-8`}>senior software engineer @             <ExternalLink href='https://www.napier.ai/'>napier ai</ExternalLink>
+        </p>
 
         <div className='space-y-4 mb-8'>
           <p>
-            currently @{' '}
-            <ExternalLink href='https://www.napier.ai/'>napier ai</ExternalLink>
+            founder @ {' '}
+            <ExternalLink href='https://www.rentsensei.com/'>rentsensei</ExternalLink>
           </p>
-
-          {/* <ExternalLink href='/resume.pdf'>resume</ExternalLink> */}
         </div>
 
         {/* Footer */}
