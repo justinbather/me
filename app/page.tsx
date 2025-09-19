@@ -20,8 +20,8 @@ export default function HomePage() {
 
         <div className='space-y-4 mb-8'>
           <p>
-            founder @ {' '}
-            <ExternalLink href='https://www.rentsensei.com/'>rentsensei</ExternalLink>
+            building {' '}
+            <ExternalLink href='https://www.rentsensei.com/'>rentsensei.com</ExternalLink>
           </p>
         </div>
 
