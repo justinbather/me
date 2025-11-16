@@ -18,13 +18,6 @@ export default function HomePage() {
         <p className={`${secondaryTextClass} mb-8`}>senior software engineer @             <ExternalLink href='https://www.napier.ai/'>napier ai</ExternalLink>
         </p>
 
-        <div className='space-y-4 mb-8'>
-          <p>
-            building {' '}
-            <ExternalLink href='https://www.rentsensei.com/'>rentsensei.com</ExternalLink>
-          </p>
-        </div>
-
         {/* Footer */}
         <div className='flex flex-col md:flex-row md:justify-between border-t border-[var(--border)] pt-4 gap-4 md:gap-0 md:items-center mb-8'>
           <div className='flex gap-4'>
