@@ -15,7 +15,8 @@ export default function HomePage() {
       <div className='m-auto flex flex-col w-full max-w-md px-8 sm:px-12 md:px-0 md:w-1/2 lg:w-1/3'>
         {/* Header */}
         <h1 className='font-medium mb-2'>justin bather</h1>
-        <p className={`${secondaryTextClass} mb-8`}>senior software engineer @             <ExternalLink href='https://www.napier.ai/'>napier ai</ExternalLink>
+        <p className={`${secondaryTextClass} mb-8`}>co-founder @ <ExternalLink href=''>humanworks</ExternalLink></p>
+        <p className={`${secondaryTextClass} mb-8`}>senior software engineer @             <ExternalLink href='https://www.apexfintechsolutions.com/'>apex fintech solutions</ExternalLink>
         </p>
 
         {/* Footer */}
